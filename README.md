@@ -1,1 +1,1 @@
-# .github
+# SQL Genius
