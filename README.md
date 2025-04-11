@@ -9,7 +9,6 @@
   </p>
 
 [![Try Online](https://img.shields.io/badge/TRY_LIVE_DEMO-Expert_Optimized_SQL-blue?style=for-the-badge&logo=databricks)](https://sqlflash.ai/app/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Action-Ready-green?logo=githubactions)](https://github.com/marketplace/actions/sqlflash-optimizer)
 
 </div>
 
