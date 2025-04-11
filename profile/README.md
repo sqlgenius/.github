@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo.png">
+<img src="https://github.com/sqlgenius/.github/blob/273fb712428b93c8cd8a790d85e13d90befbc65b/logo.png">
 
 
 <h1>🚀SQLFlash - AI-Driven SQL Optimization Platform</h1>
