@@ -53,3 +53,8 @@ Experience SQL optimization revolution through our live demo:
 
 ![Live Optimization Demo](sqlflash-demo.gif)
 
+
+## 🌐 Connect & Collaborate 
+
+Have questions? Join our community in [GitHub discussions](https://github.com/orgs/sqlgenius/discussions).\
+Explore SQL optimization best practices and curated case studies on our [Official blog](https://sqlflash.ai/blog). 
