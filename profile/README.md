@@ -52,3 +52,9 @@ Experience SQL optimization revolution through our live demo:
 [![Optimize Now](https://img.shields.io/badge/Click_Here_For_Free_Trial-Expert_Optimized_SQL-blue?style=for-the-badge&logo=databricks)](https://sqlflash.ai/app/)
 
 ![Live Optimization Demo](https://github.com/sqlgenius/.github/blob/e45f76adcc2618f6b92ddc133db11b34d114811a/sqlflash-demo.gif)
+
+
+## 🌐 Connect & Collaborate 
+
+Have questions? Join our community in [GitHub discussions](https://github.com/orgs/sqlgenius/discussions).
+Explore SQL optimization best practices and curated case studies on our [Official blog](https://sqlflash.ai/blog). 
